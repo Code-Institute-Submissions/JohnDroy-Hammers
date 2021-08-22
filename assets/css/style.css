@@ -39,20 +39,24 @@
 .about {
     text-align: center;
     line-height: 150px;
+    font-size: 40px;
 }
 
 .past {
     text-align: center;
     line-height: 100px;
+    font-size: 40px;
 }
 
 .present {
     text-align: center;
     line-height: 200px;
+    font-size: 40px;
 }
 
 nav {
     display: flex;
     margin-right: auto;
     margin-left: auto;
+    
 }

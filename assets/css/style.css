@@ -1,3 +1,9 @@
+* {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
 #head {
     text-align: center;
     font-size: 50px;
@@ -28,4 +34,25 @@
 
 #bar a:hover {
     border-bottom: 1px solid #7F1734
+}
+
+.about {
+    text-align: center;
+    line-height: 150px;
+}
+
+.past {
+    text-align: center;
+    line-height: 100px;
+}
+
+.present {
+    text-align: center;
+    line-height: 200px;
+}
+
+nav {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
 }

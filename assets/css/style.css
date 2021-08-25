@@ -42,10 +42,8 @@
 
 .about {
     text-align: center;
-    line-height: 150px;
+    line-height: 120px;
     font-size: 40px;
-    background-color: #7F1734;
-    color: #89CFF0;
     font-family: Oswald, sans-serif;
     
 }
@@ -54,12 +52,15 @@
     text-align: center;
     line-height: 100px;
     font-size: 40px;
+    font-family: Oswald, sans-serif;
 }
 
 .present {
     text-align: center;
     line-height: 200px;
     font-size: 40px;
+    font-family: Oswald, sans-serif;
+    border: none;
 }
 
 nav {
@@ -67,9 +68,26 @@ nav {
     margin-right: auto;
     margin-left: auto;
     
+    
 }
 
 .about-p {
+text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+    font-family: Lato, sans-serif;
+}
+
+.past-p {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+    font-family: Lato, sans-serif;
+}
+
+.present-p {
     text-align: center;
     margin-left: 50px;
     margin-right: 50px;

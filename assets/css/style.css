@@ -33,13 +33,16 @@
 }
 
 #bar a:hover {
-    border-bottom: 1px solid #7F1734
+    border-bottom: 1px solid #3a3a3a
 }
 
 .about {
     text-align: center;
     line-height: 150px;
     font-size: 40px;
+    background-color: #7F1734;
+    color: #89CFF0;
+    
 }
 
 .past {
@@ -59,4 +62,11 @@ nav {
     margin-right: auto;
     margin-left: auto;
     
+}
+
+.about-p {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
 }

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald&display=swap');
+
 * {
     border: none;
     margin: 0;
@@ -9,6 +11,8 @@
     font-size: 50px;
     color: #89CFF0;
     background-color: #7F1734;
+    font-family: Oswald, sans serif;
+    letter-spacing: 2px;
 }
 
 #bar {
@@ -42,6 +46,7 @@
     font-size: 40px;
     background-color: #7F1734;
     color: #89CFF0;
+    font-family: Oswald, sans-serif;
     
 }
 
@@ -69,4 +74,5 @@ nav {
     margin-left: 50px;
     margin-right: 50px;
     font-size: 20px;
+    font-family: Lato, sans-serif;
 }

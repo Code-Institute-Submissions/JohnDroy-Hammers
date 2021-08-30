@@ -135,7 +135,20 @@ text-align: center;
 }
 
 .photos {
+    position: absolute;
+    margin-left: 90%;
     width: 10%;
+}
+
+.team-photo {
+    display: flex;
+    margin: auto;
+}
+
+.team-photo2 {
+    display: flex;
+    margin: auto;
+    width: 30%;
 }
 
 

@@ -39,5 +39,6 @@ Hammers History is a site that helps Current West Ham fans or new West Ham fans 
         * Head down to the pages section.
         * Select the branch drop down menu and change from none to main.
         * Click save and the site will be published with a link to the live website.
+        * The link to the website can be found here - https://johndroy.github.io/Hammers/
 
 

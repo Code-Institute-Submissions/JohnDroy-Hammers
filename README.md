@@ -41,4 +41,10 @@ Hammers History is a site that helps Current West Ham fans or new West Ham fans 
         * Click save and the site will be published with a link to the live website.
         * The link to the website can be found here - https://johndroy.github.io/Hammers/
 
+        # Credits 
+        
+        ## Content 
+        * The main source of the information of the page came from https://www.whufc.com/club/history/club-history.
+        * A lot of other knowledge came from memory or looking at past scores and transfers of the team.
+
 

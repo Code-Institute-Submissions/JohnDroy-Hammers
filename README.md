@@ -12,4 +12,10 @@ Hammers History is a site that helps Current West Ham fans or new West Ham fans 
 
  * The nav bar 
    * The nav bar is put in place to indicate each section of the page and clearly state what information will be on the page. 
+
    ![image](assets/images/nav.jpg)
+
+   * ## The footer
+     * All of the social media pages for the club will be located at the bottom of the page. 
+
+     ![image](assets/images/footer)

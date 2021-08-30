@@ -16,11 +16,14 @@ Hammers History is a site that helps Current West Ham fans or new West Ham fans 
    ![image](assets/images/nav.jpg)
 
   ## The footer
-    * All of the social media pages for the club will be located at the bottom of the page. 
+  * All of the social media pages for the club will be located at the bottom of the page. 
 
      ![image](assets/images/footer)
 
      # Features to be added 
       * Images around the site displaying logos and team photos. 
+
+      # Testing 
+      * The main face of the website works as intended, the site has been tested on mulitple screen sizes and works fine. However media quiries may need to be added for if the screen size becomes to small. 
 
 

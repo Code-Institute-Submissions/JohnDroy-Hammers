@@ -7,4 +7,6 @@ Hammers History is a site that helps Current West Ham fans or new West Ham fans 
 
 * The color scheme
 
-One of the main features about the site is its color shceme. The claret and blue color scheme is a strong indicator that your are on a West Ham themed site. Any West Ham fan could spot the colors from a mile away.
+ * One of the main features about the site is its color shceme. The claret and blue color scheme is a strong indicator that your are on a West Ham themed site. Any West Ham fan could spot the colors from a mile away.
+
+ ![image](assets/images/color.scheme.jpg)

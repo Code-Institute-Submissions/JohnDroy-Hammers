@@ -30,4 +30,14 @@ Hammers History is a site that helps Current West Ham fans or new West Ham fans 
 
       ![image](assets/images/css.validation.jpg)
 
+      # Unfixed bugs
+      * The site does not have any unfixed bugs that I am aware of. The site could do with a few things added to it to make it more interesting or responsive, however nothing appears to be broken or not working.
+
+      # Deplyoment 
+      * The site has been delpoyed onto git hub pages using these steps.
+        * In the Github repository, go to the settings tab.
+        * Head down to the pages section.
+        * Select the branch drop down menu and change from none to main.
+        * Click save and the site will be published with a link to the live website.
+
 

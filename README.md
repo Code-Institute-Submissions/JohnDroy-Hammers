@@ -46,5 +46,7 @@ Hammers History is a site that helps Current West Ham fans or new West Ham fans 
         ## Content 
         * The main source of the information of the page came from https://www.whufc.com/club/history/club-history.
         * A lot of other knowledge came from memory or looking at past scores and transfers of the team.
+        * The icon for the football was sourced from https://fontawesome.com/.
+        
 
 

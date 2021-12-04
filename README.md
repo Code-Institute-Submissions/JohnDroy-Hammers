@@ -26,9 +26,9 @@ Hammers History is a site that helps Current West Ham fans or new West Ham fans 
 # Testing 
       * The main face of the website works as intended, the site has been tested on mulitple screen sizes and works fine. However media quiries may need to be added for if the screen size becomes too small. 
       * The site has been put through validation tests and has passed. 
-      ![image](assets/images/html-validation-jpg)
+      ![image](assets/images/html.validation.jpg)
 
-      ![image](assets/images/css-validation-jpg)
+      ![image](assets/images/css.validation.jpg)
 
 # Fixed bugs
       * Problem 1

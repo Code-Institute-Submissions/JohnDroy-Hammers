@@ -87,7 +87,7 @@ nav {
     margin-left: auto;
 }
 
-.about-p {
+.main-p {
 text-align: center;
     margin-left: 50px;
     margin-right: 50px;
@@ -96,7 +96,7 @@ text-align: center;
     color: #89CFF0;
 }
 
-.past-p {
+.alt-p {
     text-align: center;
     margin-left: 50px;
     margin-right: 50px;
@@ -151,7 +151,31 @@ text-align: center;
     width: 30%;
 }
 
+@media only screen and (max-width: 600px) {
+    #bar {
+      letter-spacing: 0;
+      margin-left: auto;
+      margin-right: auto;
+}
 
+    .team-photo {
+        width: 100%;
+}
+
+    .team-photo2 {
+        width: 100%;
+ }
+
+ .alt-p {
+     margin-left: 1rem;
+     margin-right: 1rem;   
+ }
+
+ .main-p {
+     margin-left: 1rem;
+     margin-right: 1rem;
+ }
+  }
 
 
 

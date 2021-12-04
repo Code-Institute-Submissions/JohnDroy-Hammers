@@ -8,32 +8,39 @@ Hammers History is a site that helps Current West Ham fans or new West Ham fans 
 ## The color scheme
   * One of the main features about the site is its color shceme. The claret and blue color scheme is a strong indicator that your are on a West Ham themed site. Any West Ham fan could spot the colors from a mile away.
 
- ![image](assets/images/color.scheme.jpg)
+ ![image](assets/images/color-scheme-jpg)
 
- ## The nav bar 
+## The nav bar 
  * The nav bar is put in place to indicate each section of the page and clearly state what information will be on the page. 
 
-   ![image](assets/images/nav.jpg)
+   ![image](assets/images/nav-jpg)
 
-  ## The footer
+## The footer
   * All of the social media pages for the club will be located at the bottom of the page. 
 
-     ![image](assets/images/footer.jpg)
+     ![image](assets/images/footer-jpg)
 
-     # Features to be added 
+# Features to be added 
       * Images around the site displaying logos and team photos. 
 
-      # Testing 
+# Testing 
       * The main face of the website works as intended, the site has been tested on mulitple screen sizes and works fine. However media quiries may need to be added for if the screen size becomes too small. 
       * The site has been put through validation tests and has passed. 
-      ![image](assets/images/html.validation.jpg)
+      ![image](assets/images/html-validation-jpg)
 
-      ![image](assets/images/css.validation.jpg)
+      ![image](assets/images/css-validation-jpg)
 
-      # Unfixed bugs
-      * The site does not have any unfixed bugs that I am aware of. The site could do with a few things added to it to make it more interesting or responsive, however nothing appears to be broken or not working.
+# Fixed bugs
+      * Problem 1
+        * Problem: The page would not be suited for smaller screens.
+        * Cause: Media queries were not set when developing the website.
+        * Solution: Added media queries to the css to better suit smaller screens.
+      * Problem 2
+        * Problem: About, Past and Present section were none responsive.
+        * Cause: Each section did not have the correct id in order to make them responsive.
+        * Solution: Added ids to make sure that the nav bar became responsive   
 
-      # Deplyoment 
+# Deployment 
       * The site has been delpoyed onto git hub pages using these steps.
         * In the Github repository, go to the settings tab.
         * Head down to the pages section.
